@@ -4,6 +4,7 @@ public class ui {
 
     String vocab = "a";
     public static void main(String[] args) {
+        
 
 
         //String a = scanner.nextstring();
@@ -12,8 +13,6 @@ public class ui {
         System.out.println("hello, press a to continue");
         String userName = myObj.nextLine();  // Read user input
         System.out.println("Username is:a " + userName);  // Output user input
-
-
     }
 
 }
