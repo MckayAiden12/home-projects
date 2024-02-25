@@ -2166,5 +2166,10 @@ import javax.swing.KeyStroke;
          StdDraw.setPenColor(StdDraw.WHITE);
          StdDraw.text(0.8, 0.8, "white text");
      }
+
+    public static void addKeyListener(TestStdDraw test) {
+        // TODO Auto-generated method stub
+        throw new UnsupportedOperationException("Unimplemented method 'addKeyListener'");
+    }
  
  }
